@@ -215,3 +215,16 @@ class DoubleLikedList
     }
 }
 
+
+/*
+ 2. karena sesuai jenis soalnya
+ 3. push dan pop
+ 4. rear dan front
+ 5.
+   a. 5 kedalaman
+   b. in order ( kiri, akar, kanan ) 
+ 
+ 
+ 
+ 
+ */
