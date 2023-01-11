@@ -206,10 +206,12 @@ class DoubleLikedList
 
                 }
                 catch (Exception e)
-                { 
-                    Console.WriteLine("check for the values entered. ");
+                {
+                  Console.WriteLine("check for the values entered. ");
                 }
-        }
+            
+            }  
+        }   
     }
 }
 
